@@ -26,6 +26,7 @@ https://wv.hkatv.com/proxy
 https://tran.hkatv.com/Tran/memberAction
 https://api.hkatv.com/Content/getLikeContentList
 https://api.hkatv.com/Content/getContentList
+https://api.hkatv.com/Channel/getEpg
 
 https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd
 curl -H 'User-Agent: e/1.1.1.19 (Linux;Android 7.1.2) ExoPlayerLib/2.4.4' -H 'Host: atvlc1d1.akamaized.net' --compressed 'https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd'
