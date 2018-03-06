@@ -48,6 +48,7 @@
 508 熊貓頻道 http://main.ls6.ottlive.hkatv.com/TV4011/ngrp:abr/playlist.m3u8
 601 炫動卡通 http://main.ls6.ottlive.hkatv.com/TV1005/ngrp:abr/playlist.m3u8
 602 卡酷動畫 http://main.ls6.ottlive.hkatv.com/TV1030/ngrp:abr/playlist.m3u8
+604 CNTV 科教 http://main.ls1.ottlive.hkatv.com/TV4016/ngrp:abr/playlist.m3u8
 
 https://api.hkatv.com/Config/getAppConfig
 http://analytics-api.hkatv.com//proj/init
