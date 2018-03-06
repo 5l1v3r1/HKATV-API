@@ -56,6 +56,7 @@
 703 CCTV-4 中文國際 http://main.ls1.ottlive.hkatv.com/TV6101/ngrp:abr/playlist.m3u8
 704 CGTN News http://main.ls2.ottlive.hkatv.com/TV6102/ngrp:abr/playlist.m3u8
 705 CNTV 財經 http://main.ls1.ottlive.hkatv.com/TV4013/ngrp:abr/playlist.m3u8
+706 CNTV 法制 http://main.ls1.ottlive.hkatv.com/TV4010/ngrp:abr/playlist.m3u8
 
 https://api.hkatv.com/Config/getAppConfig
 http://analytics-api.hkatv.com//proj/init
