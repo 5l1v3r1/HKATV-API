@@ -16,3 +16,25 @@ https://antenna-resource.akamaized.net/xxx
 402 宮廷劇場
 
 601 炫動卡通
+
+https://api.hkatv.com/Config/getAppConfig
+http://analytics-api.hkatv.com//proj/init
+https://api.hkatv.com/Product/getCreditPackageList
+https://api.hkatv.com/Layout/getLandingMenu
+https://api.hkatv.com/Product/getSubscriptionPlanList
+https://tran.hkatv.com/Tran/pagingTran
+https://api.hkatv.com/Member/getMemberInfo
+https://api.hkatv.com/Layout/getSubMenu
+https://api.hkatv.com/Content/getContentGroupByTagGroup
+https://api.hkatv.com/Playlist/getPlaylistDetail
+https://api.hkatv.com/Playback/getMovieClip
+https://api.hkatv.com/Playback/checkDevice
+https://api.hkatv.com/Playback/startPlayPreparation
+https://tran.hkatv.com/Tran/memberView
+https://atv-eastasia-ns.servicebus.windows.net/atv-eastasia/messages
+https://api.hkatv.com/Channel/getLink
+https://wv.hkatv.com/proxy
+https://tran.hkatv.com/Tran/memberAction
+
+https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd
+curl -H 'User-Agent: e/1.1.1.19 (Linux;Android 7.1.2) ExoPlayerLib/2.4.4' -H 'Host: atvlc1d1.akamaized.net' --compressed 'https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd'
