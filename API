@@ -52,6 +52,7 @@
 605 中國教育電視台 http://main.ls6.ottlive.hkatv.com/TV1015/ngrp:abr/playlist.m3u8
 606 山東教育電視台 http://main.ls6.ottlive.hkatv.com/TV1041/ngrp:abr/playlist.m3u8
 701 CNTV 新聞綜合 http://main.ls1.ottlive.hkatv.com/TV4015/ngrp:abr/playlist.m3u8
+702 CNTV 新聞 http://main.ls2.ottlive.hkatv.com/TV6102/ngrp:abr/playlist.m3u8
 
 https://api.hkatv.com/Config/getAppConfig
 http://analytics-api.hkatv.com//proj/init
