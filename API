@@ -24,6 +24,10 @@ https://atv-eastasia-ns.servicebus.windows.net/atv-eastasia/messages
 https://api.hkatv.com/Channel/getLink
 https://wv.hkatv.com/proxy
 https://tran.hkatv.com/Tran/memberAction
+https://api.hkatv.com/Content/getLikeContentList
+https://api.hkatv.com/Content/getContentList
 
 https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd
 curl -H 'User-Agent: e/1.1.1.19 (Linux;Android 7.1.2) ExoPlayerLib/2.4.4' -H 'Host: atvlc1d1.akamaized.net' --compressed 'https://atvlc1d1.akamaized.net/live/channel1/prod/dash.mpd'
+
+{"platform_id":11,"locale":"zh-hk","member_token":"00000000-0aaa-0000-a0aa-000a00aa0aa0","nonce":"","member_id":000000,"device_id":"xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx","lat":0,"long":0,"app_id":1,"tag_id":6436,"filter":0,"record_count":10,"record_offset":0}
