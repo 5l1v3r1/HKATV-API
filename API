@@ -26,7 +26,7 @@
 401 精品大劇 http://main.ls7.ottlive.hkatv.com/TV4007/ngrp:abr/playlist.m3u8
 402 宮廷劇場 http://main.ls6.ottlive.hkatv.com/TV4002/ngrp:abr/playlist.m3u8
 501 精品記錄
-601 炫動卡通
+601 炫動卡通 http://main.ls6.ottlive.hkatv.com/TV1005/ngrp:abr/playlist.m3u8
 
 https://api.hkatv.com/Config/getAppConfig
 http://analytics-api.hkatv.com//proj/init
